@@ -1,2 +1,2 @@
 # Dice-Game
-HTML, CSS
+HTML, CSS, Javascript
